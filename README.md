@@ -1,5 +1,5 @@
 
-# Personalized Medicine: Redefining Cancer Treatment Predict the effect of Genetic Variants to enable Personalized Medicine
+# Personalized Medicine: Redefining Cancer Treatment 
 *Predict the effect of Genetic Variants to enable Personalized Medicine*
 
 A lot has been said during the past several years about how precision medicine and, more concretely, how genetic testing is going to disrupt the way diseases like cancer are treated.
